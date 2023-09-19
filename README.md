@@ -6,6 +6,7 @@
 
 ## Skills and Technologies
 Here are some of the programming languages and frameworks I've had experience with:
+- Figma (For design)
 - HTML/CSS/SassCSS
 - JavaScript
 - Python
