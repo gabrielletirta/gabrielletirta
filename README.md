@@ -1,7 +1,7 @@
 # Hi, I'm Gabrielle 👋
 - 💻 I started learning to code on 28/05/2023 through FCC 
 - 🐍 Currently learning JS and Python
-- ✨ On a challenge to finish CS50 Web Programming with Python and JS within 30D (ends on 30/09/2023)
+- ✨ On a challenge to finish CS50 Web Programming with Python and JS within 30D (started on 05/09/2023)
 - 💌 tirtagabrielle@gmail.com
 
 ## Skills and Technologies
