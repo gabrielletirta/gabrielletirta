@@ -1,8 +1,5 @@
 # Hi, I'm Gabrielle 👋
-- 💻 I started learning to code on 28/05/2023 through FCC 
-- 🐍 Currently learning JS and Python
-- ✨ On a challenge to finish CS50 Web Programming with Python and JS within 30D (started on 05/09/2023)
-- 💌 tirtagabrielle@gmail.com
+- 💻 I started learning to code on 28/05/2023
 
 ## Skills and Technologies
 Here are some of the programming languages and frameworks I've had experience with:
@@ -11,7 +8,7 @@ Here are some of the programming languages and frameworks I've had experience wi
 - JavaScript
 - Python
 - Django
-- Bootstrap
+- Libraries: Bootstrap, NumPy, Pandas
 
 note: my level of proficiency may vary for each of these. Some I have more experience with, while others I've only touched briefly. I'm continually learning and exploring new technologies! 😜🔥
 <!---
